@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.2.1",
+    "express": "^4.18.2",
+    "telnyx": "^1.23.0"
+  },
+  "name": "sistari.net",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
