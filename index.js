@@ -62,9 +62,9 @@ sendMeAGadDamnMessage = () => {
     messages: [
       {
         channel: "sms",
-        recipients: ["+40742143131"],
+        recipients: ["+40742143131","+40746193658"],
         content:
-          "Sistare pe localitatea Brad https://apaprod.ro/localitatea-brad-" +
+          "Sistare apa pe localitatea Brad https://apaprod.ro/localitatea-brad-" +
           sistareIndex.value +
           "/",
         msg_type: "text",
